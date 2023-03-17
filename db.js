@@ -22,7 +22,7 @@ db.connect();
 
 module.exports = db;
 
-("use strict");
+// ("use strict");
 
 /** Database setup for jobly. */
 
